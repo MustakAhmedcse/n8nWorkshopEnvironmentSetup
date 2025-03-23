@@ -274,7 +274,11 @@ Ollama API সম্পর্কে বিস্তারিত জানতে 
 
 > `apt-get install build-essential -y`
 
-> `cd /tmp`
+> `cd /var/www`
+
+> `mkdir workshop`
+
+> `cd workshop`
 
 > `git clone --depth 1 https://github.com/n8n-io/n8n`
 
